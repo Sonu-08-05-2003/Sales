@@ -1,0 +1,1 @@
+curl http://localhost:8000/chat/user_123/history
